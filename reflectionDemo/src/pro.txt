@@ -1,0 +1,2 @@
+className = pers.xipiker.v5.Student
+methodName = show
